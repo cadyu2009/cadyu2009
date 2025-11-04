@@ -16,3 +16,9 @@ Aquí podremos poner más contenido.
 Aquí pondremos más cosillas
 
 ### Este es un título de tipo 3 (a mayor numeración, mas pequeño es el título)
+
+### Clasificaciones  de la liga
+
+<table>
+  <tr></tr>
+</table>
