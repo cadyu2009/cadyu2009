@@ -1,7 +1,7 @@
-___ 
+--- 
 layout: default
 titlt: Inicio 
-___
+---
 
 #¡Bienbenido a mi sitio web: JOSE MANUEL GUILLEN!
 
