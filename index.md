@@ -3,7 +3,7 @@ layout: default
 titlt: Inicio 
 ---
 
-#¡Bienbenido a mi sitio web: JOSE MANUEL GUILLEN!
+# ¡Bienbenido a mi sitio web: JOSE MANUEL GUILLEN!
 
   Esta es una página web de mierda creada por mí con Jekyll y Github Pages
 
