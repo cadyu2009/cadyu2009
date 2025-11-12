@@ -9,6 +9,7 @@ permalink: /ciclos/
 ##Cuidados Auxiliares de Enfermería
 
 #C.F. de Formación Profesional Básica
+
 ## informatica de oficina 
 
 |curso||1|Módulo Profesional	Horas totales
@@ -24,6 +25,7 @@ permalink: /ciclos/
 |2|	Comunicación y sociedad II	|130|
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|50|
+
 ## Alojamiento y lavanderia
 
 |Curso|	Módulo Profesional	Horas totales
@@ -42,6 +44,7 @@ permalink: /ciclos/
 |12|	Comunicación y sociedad II	|130|
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|55|
+
 ## operaciones administrativas
 
 |Curso|	Módulo Profesional	Horas totales
@@ -53,6 +56,7 @@ permalink: /ciclos/
 |1|	Relaciones en el equipo de trabajo	|65|
 |1|	Itinerario personal para la Empleabilidad I	|65|
 |2|	Formación en centros de trabajo	|440|
+
 ## tecnicas administrativas
 
 |Curso|	Módulo Profesional	Horas totales
