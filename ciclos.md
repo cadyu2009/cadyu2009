@@ -12,7 +12,7 @@ permalink: /ciclos/
 
 ## informatica de oficina 
 
-|1| |curso||1|Módulo Profesional	Horas totales
+|1| |curso| Módulo Profesional	|Horas totales|
 |1|	Montaje y mantenimiento de sistemas y componentes informáticos	|375|
 |1|	Ciencias aplicadas I	|140|
 |1|	Comunicación y sociedad I	|140|
@@ -28,7 +28,7 @@ permalink: /ciclos/
 
 ## Alojamiento y lavanderia
 
-|Curso|	Módulo Profesional	Horas totales
+|Curso|	Módulo Profesional	|Horas totales|
 |1|	Materiales y productos textiles	|115|
 |1|	Lavado y secado de ropa	|185|
 |1|	Planchado y embolsado de ropa	|185|
@@ -47,7 +47,7 @@ permalink: /ciclos/
 
 ## operaciones administrativas
 
-|Curso|	Módulo Profesional	Horas totales
+|Curso|	Módulo Profesional	|Horas totales|
 |1|	Operaciones administrativas y documentación sanitaria	|65|
 |1|	Técnicas básicas de enfermería	|350|
 |1|	Higiene del medio hospitalario y limpieza de material	|155|
@@ -59,7 +59,7 @@ permalink: /ciclos/
 
 ## tecnicas administrativas
 
-|Curso|	Módulo Profesional	Horas totales
+|Curso|	Módulo Profesional	|Horas totales|
 |1|	Tratamiento informático de datos	|300|
 |1|	Técnicas administrativas básicas	|60|
 |1|	Atención al cliente	|75|
