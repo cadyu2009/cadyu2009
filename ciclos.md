@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: single
 title: Ciclos formativos
 permalink: /ciclos/
+toc: true
 ---
 
 # C.F. de Grado Medio 
