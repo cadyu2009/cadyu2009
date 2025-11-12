@@ -12,7 +12,7 @@ toc: true
 # C.F. de Formación Profesional Básica
 
 ## COMPETENCIA GENERAL
-La competencia general de este título consiste en realizar actividades de apoyo administrativo en el ámbito laboral, contable, comercial, financiero y fiscal, así como de atención al cliente/usuario, tanto en empresas públicas como privadas, aplicando la normativa vigente y protocolos de calidad, asegurando la satisfacción del cliente y actuando según normas de prevención de riesgos laborales y protección ambiental.
+La competencia general de este título consiste en realizar operaciones auxiliares de montaje y mantenimiento de sistemas microinformáticos, periféricos y redes de comunicación de datos, y de tratamiento, reproducción y archivo de documentos, operando con la calidad indicada y actuando en condiciones de seguridad y de protección ambiental con responsabilidad e iniciativa personal y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
 ## Informática de oficina 
 
@@ -29,6 +29,9 @@ La competencia general de este título consiste en realizar actividades de apoyo
 |2|	Comunicación y sociedad II	|130|
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|50|
+
+## COMPETENCIA GENERAL
+La competencia general del título consiste en realizar con autonomía la limpieza y puesta a punto de las habitaciones en alojamientos turísticos o de otra índole y de las áreas comunes de éstos, cuidando el buen estado de instalaciones y mobiliario, así como realizar las operaciones de clasificación, lavado y limpieza de artículos textiles en instalaciones industriales, asistiendo en los procesos de servicio y atención al cliente, siguiendo los protocolos de calidad establecidos, observando las normas de higiene, prevención de riesgos laborales y protección medioambiental, con responsabilidad e iniciativa personal y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
 ## Alojamiento y lavandería
 
@@ -49,7 +52,10 @@ La competencia general de este título consiste en realizar actividades de apoyo
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|55|
 
-## operaciones administrativas
+## COMPETENCIA GENERAL
+La competencia general del título consiste en realizar tareas administrativas y de gestión básicas, con autonomía con responsabilidad e iniciativa personal, operando con la calidad indicada, observando las normas de aplicación vigente medioambientales y de seguridad e higiene en el trabajo y comunicándose de forma oral y escrita en lengua castellana y, en su caso, en la lengua cooficial propia así como en alguna lengua extranjera.
+
+## Servicios administrativas
 
 |Curso|	Módulo Profesional	|Horas totales|
 |1|	Operaciones administrativas y documentación sanitaria	|65|
@@ -60,6 +66,9 @@ La competencia general de este título consiste en realizar actividades de apoyo
 |1|	Relaciones en el equipo de trabajo	|65|
 |1|	Itinerario personal para la Empleabilidad I	|65|
 |2|	Formación en centros de trabajo	|440|
+
+## COMPETENCIA GENERAL
+La competencia general del título consiste en realizar tareas administrativas y de gestión básicas, con autonomía con responsabilidad e iniciativa personal, operando con la calidad indicada, observando las normas de aplicación vigente medioambientales y de seguridad e higiene en el trabajo y comunicándose de forma oral y escrita en lengua castellana y, en su caso, en la lengua cooficial propia así como en alguna lengua extranjera.
 
 ## tecnicas administrativas
 
@@ -72,6 +81,9 @@ La competencia general de este título consiste en realizar actividades de apoyo
 |1|	Tutoría	|30|
 |1|	Itienerario personal para la empleabilidad	|55|
 |2|	Aplicaciones básicas de ofimática	|310|
+
+## COMPETENCIA GENERAL
+La competencia general de este título consiste en realizar actividades de apoyo administrativo en el ámbito laboral, contable, comercial, financiero y fiscal, así como de atención al cliente/usuario, tanto en empresas públicas como privadas, aplicando la normativa vigente y protocolos de calidad, asegurando la satisfacción del cliente y actuando según normas de prevención de riesgos laborales y protección ambiental.
 
 ## Gestion administrativas
 
