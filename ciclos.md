@@ -1,6 +1,6 @@
 ---
-layout: splash 
-title: cicelos formativos 
+layout: splash
+title: Ciclos formativos
 permalink: /ciclos/
 ---
 
@@ -10,9 +10,9 @@ permalink: /ciclos/
 
 # C.F. de Formación Profesional Básica
 
-## informatica de oficina 
+## Informática de oficina 
 
-|curso| Módulo Profesional	|Horas totales|
+|Curso| Módulo Profesional	|Horas totales|
 |1|	Montaje y mantenimiento de sistemas y componentes informáticos	|375|
 |1|	Ciencias aplicadas I	|140|
 |1|	Comunicación y sociedad I	|140|
@@ -26,7 +26,7 @@ permalink: /ciclos/
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|50|
 
-## Alojamiento y lavanderia
+## Alojamiento y lavandería
 
 |Curso|	Módulo Profesional	|Horas totales|
 |1|	Materiales y productos textiles	|115|
@@ -35,13 +35,13 @@ permalink: /ciclos/
 |1|	Ciencias aplicadas I	|140|
 |1|	Comunicación y sociedad I	|140|
 |1|	Tutoría	|30|
-|11|	Preparación y montaje de materiales para colectividades y catering	|150|
-|11|	Itienerario personal para la empleabilidad	|55|
-|12|	Puesta a punto de habitaciones y zonas comunes en alojamiento	|275|
-|12|	Atención al cliente	|75|
+|1|	Preparación y montaje de materiales para colectividades y catering	|150|
+|1|	Itienerario personal para la empleabilidad	|55|
+|2|	Puesta a punto de habitaciones y zonas comunes en alojamiento	|275|
+|2|	Atención al cliente	|75|
 |2|	Lavandería y mantenimiento de lencería en el alojamiento	|310|
 |2|	Ciencias aplicadas II	|130|
-|12|	Comunicación y sociedad II	|130|
+|2|	Comunicación y sociedad II	|130|
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|55|
 
@@ -69,7 +69,7 @@ permalink: /ciclos/
 |1|	Itienerario personal para la empleabilidad	|55|
 |2|	Aplicaciones básicas de ofimática	|310|
 
-## tecnicas administrativas
+## Gestion administrativas
 
 Curso	Módulo Profesional	|Horas totales|
 |1|	Comunicación empresarial y atención al cliente	|135|
