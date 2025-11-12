@@ -11,7 +11,7 @@ permalink: /ciclos/
 #C.F. de Formación Profesional Básica
 ## informatica de oficina 
 
-|1| |Módulo Profesional	Horas totales
+|1| |curso||1|Módulo Profesional	Horas totales
 |1|	Montaje y mantenimiento de sistemas y componentes informáticos	|375|
 |1|	Ciencias aplicadas I	|140|
 |1|	Comunicación y sociedad I	|140|
