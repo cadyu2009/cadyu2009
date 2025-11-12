@@ -71,7 +71,7 @@ permalink: /ciclos/
 
 ## Gestion administrativas
 
-Curso	Módulo Profesional	|Horas totales|
+|Curso|	Módulo Profesional	|Horas totales|
 |1|	Comunicación empresarial y atención al cliente	|135|
 |1|	Operaciones administrativas de compra-venta	|175|
 |1|	Empresa y Administración	|105|
