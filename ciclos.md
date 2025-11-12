@@ -12,7 +12,7 @@ permalink: /ciclos/
 
 ## informatica de oficina 
 
-|1| |curso| Módulo Profesional	|Horas totales|
+|curso| Módulo Profesional	|Horas totales|
 |1|	Montaje y mantenimiento de sistemas y componentes informáticos	|375|
 |1|	Ciencias aplicadas I	|140|
 |1|	Comunicación y sociedad I	|140|
