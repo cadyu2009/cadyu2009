@@ -4,7 +4,7 @@ title: cicelos formativos
 permalink: /ciclos/
 ---
 
-#C.F. de Grado Medio 
+# C.F. de Grado Medio 
 ## Gestión Adminstrativa
 ## Cuidados Auxiliares de Enfermería
 
