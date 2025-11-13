@@ -1,5 +1,5 @@
 title:                                             
 description: pagina creada con jekyll y Github Pages
-remote_theme: "Wassets/images/LOGO_FP_SALCEDA8.jpg"
+remote_theme:"mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
