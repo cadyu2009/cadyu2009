@@ -1,4 +1,5 @@
-title: "mi sitio web sen                                          
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-  - jekyll-include-cache
+title: "mi sitio web sencillo"
+description: "Un sitio de ejemplo usando Jekyll"
+baseurl: ""
+url: "https://tu-usuario.github.io"
+theme: jekyll-theme-slate
