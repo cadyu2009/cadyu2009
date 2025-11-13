@@ -1,5 +1,5 @@
-title: "mi sitio web sencillo"
-description: "Un sitio de ejemplo usando Jekyll"
-baseurl: ""
-url: assets/images/LOGO_FP_SALCEDA6 (1).jpg
-theme: jekyll-theme-slate
+title: Mi sitio web sencillo
+description: pagina creada con jekyll y Github Pages
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
